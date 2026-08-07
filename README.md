@@ -1,12 +1,18 @@
 <div align="center">
 
+# **PRIYANSHU TARSAULIYA**
+
+### Full-Stack Software Engineer • AI & ML
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4c1d95,50:6d28d9,100:312e81&text=PRIYANSHU%20TARSAULIYA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+<br/>
+
 <a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+%26+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+%26+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+%26+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%20%26%20ML-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-8.0%2F10-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
@@ -15,16 +21,19 @@
 
 <br/><br/>
 
-<a href="mailto:priyanshutarsauliya@gmail.com">
+<a href="YOUR_PORTFOLIO_URL">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Profile-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
 <a href="https://in.linkedin.com/in/priyanshutarsauliya">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:priyanshutarsauliya@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/">
+
+<a href="https://github.com/PriyanshuTarsauliya">
 <img src="https://img.shields.io/badge/GitHub-Profile-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -42,11 +51,9 @@
 
 I am a **Full-Stack Software Engineer specializing in AI & Machine Learning**, focused on designing reliable, scalable, and production-oriented software systems.
 
-I have shipped **production web platforms serving 150+ real users**, working across Java, Spring Boot, React.js, REST APIs, databases, cloud infrastructure, and CI/CD automation. My engineering approach combines strong computer-science fundamentals with practical product engineering and measurable performance optimization.
+I have shipped **production web platforms serving 150+ real users**, working across Java, Spring Boot, React.js, REST APIs, databases, cloud infrastructure, and CI/CD automation.
 
 My core interests span **software engineering, AI/ML, backend architecture, full-stack development, distributed systems, real-time applications, and cloud-native engineering**.
-
-I enjoy transforming complex requirements into clean architectures, performant APIs, intuitive interfaces, and maintainable production systems.
 
 ### Open To
 
@@ -56,7 +63,6 @@ I enjoy transforming complex requirements into clean architectures, performant A
 - Cloud & Distributed Systems
 - Product Engineering
 - Open Source Collaboration
-- High-impact Software Engineering Teams
 
 ---
 
@@ -64,26 +70,26 @@ I enjoy transforming complex requirements into clean architectures, performant A
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,js,html,css,mysql&theme=dark"/>
 </p>
 
 ### Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind&theme=dark"/>
 </p>
 
 ### Backend & Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=spring,nodejs,mysql,mongodb&theme=dark"/>
 </p>
 
 ### Cloud, DevOps & Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,githubactions,git,github,maven,postman,vscode&theme=dark" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,githubactions,git,github,maven,postman,vscode&theme=dark"/>
 </p>
 
 ---
@@ -110,24 +116,24 @@ I enjoy transforming complex requirements into clean architectures, performant A
 
 <br/>
 
-A production-oriented full-stack cryptocurrency platform designed around real-time market data, secure authentication, trading workflows, and AI-assisted market insights.
+A full-stack cryptocurrency trading platform focused on real-time market data, secure authentication, trading workflows, and AI-assisted market insights.
 
 | Dimension | Engineering Detail |
 |---|---|
 | **Stack** | React.js, Spring Boot, MySQL, WebSocket, AI, Docker |
 | **Scale** | 20+ trading pairs and 500+ concurrent connections |
 | **Performance** | MySQL query optimization reduced query latency by 60% |
-| **Security** | JWT-based authentication and secured wallet-transfer workflows |
-| **Impact** | Real-time market experience with AI-driven market insights |
-| **Repository** | [GitHub](https://github.com/) |
+| **Security** | JWT-based authentication |
+| **Impact** | Real-time market experience with AI-driven insights |
+| **Repository** | [GitHub](https://github.com/PriyanshuTarsauliya) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Architected a complete full-stack cryptocurrency platform.
-- Implemented WebSocket-based streaming APIs for real-time price delivery.
-- Designed authentication and authorization using JWT.
-- Optimized MySQL queries using advanced indexing strategies.
-- Containerized the application using Docker.
+- Architected a full-stack cryptocurrency platform.
+- Implemented WebSocket-based real-time price streaming.
+- Designed JWT-based authentication.
+- Optimized MySQL queries using advanced indexing.
+- Containerized the platform using Docker.
 - Integrated an AI-driven chatbot for market insights.
 
 </details>
@@ -137,24 +143,24 @@ A production-oriented full-stack cryptocurrency platform designed around real-ti
 
 <br/>
 
-A computer-vision recognition system using convolutional neural networks to classify handwritten numbers and alphabets.
+A CNN-based computer-vision system designed to recognize handwritten numbers and alphabets.
 
 | Dimension | Engineering Detail |
 |---|---|
 | **Stack** | Python, Machine Learning, CNN, OpenCV |
 | **Scale** | 10,000+ test samples |
 | **Performance** | Under 200ms latency per frame |
-| **Security** | Not specified in source material |
-| **Impact** | 96% classification accuracy for handwritten characters |
-| **Repository** | [GitHub](https://github.com/) |
+| **Security** | Not specified |
+| **Impact** | 96% classification accuracy |
+| **Repository** | [GitHub](https://github.com/PriyanshuTarsauliya) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Developed a CNN-based handwritten character recognition system.
+- Developed a CNN-based recognition system.
 - Achieved 96% classification accuracy.
-- Integrated OpenCV for image preprocessing.
-- Optimized the processing pipeline for real-time text extraction.
-- Evaluated model robustness using 10,000+ test samples.
+- Integrated OpenCV preprocessing.
+- Optimized image processing for real-time extraction.
+- Processed and analyzed 10,000+ test samples.
 
 </details>
 
@@ -163,26 +169,26 @@ A computer-vision recognition system using convolutional neural networks to clas
 
 <br/>
 
-A full-stack appointment booking platform developed during a freelance engagement and used by 150+ real users.
+A full-stack doctor appointment platform developed during a freelance engagement and serving **150+ real users**.
 
 | Dimension | Engineering Detail |
 |---|---|
 | **Stack** | Java, Spring Boot, React.js, REST APIs, JWT, GitHub Actions |
 | **Scale** | 150+ real users and 12+ RESTful endpoints |
-| **Performance** | Manual scheduling time reduced by 40%; deployment time reduced by 50% |
-| **Security** | JWT-based role authentication and secure payment gateway integration |
-| **Impact** | Reduced manual appointment scheduling and accelerated delivery cycles |
-| **Repository** | [GitHub](https://github.com/) |
+| **Performance** | Scheduling time reduced by 40%; deployment time reduced by 50% |
+| **Security** | JWT-based role authentication |
+| **Impact** | Improved appointment scheduling and delivery efficiency |
+| **Repository** | [GitHub](https://github.com/PriyanshuTarsauliya) |
 
-**Engineering Scope**
+### Engineering Scope
 
-- Architected the complete full-stack appointment booking platform.
-- Built 12+ RESTful API endpoints using Spring Boot.
-- Developed responsive desktop and mobile booking workflows.
-- Implemented JWT-based role authentication.
-- Integrated secure payment gateways.
-- Automated deployment through GitHub Actions CI/CD.
-- Applied Agile iteration to reduce sprint delivery cycles from two weeks to one week.
+- Architected the full-stack platform.
+- Built 12+ RESTful APIs.
+- Developed responsive React.js booking workflows.
+- Implemented JWT authentication.
+- Integrated payment gateways.
+- Automated deployment using GitHub Actions.
+- Applied Agile development practices.
 
 </details>
 
@@ -191,24 +197,16 @@ A full-stack appointment booking platform developed during a freelance engagemen
 
 <br/>
 
-A native Android music player focused on object-oriented application architecture, background playback, playlists, and user controls.
+Native Android music player built using Java and object-oriented programming principles.
 
 | Dimension | Engineering Detail |
 |---|---|
 | **Stack** | Java, Android SDK, OOP |
-| **Scale** | Audio playback and custom playlist workflows |
-| **Performance** | Background playback implemented through Android Services |
-| **Security** | Not specified in source material |
-| **Impact** | Native Android music playback experience |
-| **Repository** | [GitHub](https://github.com/) |
-
-**Engineering Scope**
-
-- Developed a native Android music player using OOP principles.
-- Implemented custom playlist creation.
-- Added shuffle controls.
-- Used Android Service components for background audio playback.
-- Focused on reliable playback during application backgrounding.
+| **Scale** | Playlist and audio playback workflows |
+| **Performance** | Background playback using Android Services |
+| **Security** | Not specified |
+| **Impact** | Native Android music experience |
+| **Repository** | [GitHub](https://github.com/PriyanshuTarsauliya) |
 
 </details>
 
@@ -217,24 +215,16 @@ A native Android music player focused on object-oriented application architectur
 
 <br/>
 
-A responsive personal portfolio engineered around performance, responsive design, and lightweight frontend delivery.
+Responsive portfolio website optimized for performance across mobile, tablet, and desktop devices.
 
 | Dimension | Engineering Detail |
 |---|---|
 | **Stack** | HTML5, CSS3, JavaScript |
-| **Scale** | Responsive mobile, tablet, and desktop breakpoints |
-| **Performance** | 95+ Lighthouse performance score; load time reduced from 4.2s to 1.1s |
-| **Security** | Not specified in source material |
-| **Impact** | 74% faster page loading |
-| **Repository** | [GitHub](https://github.com/) |
-
-**Engineering Scope**
-
-- Designed responsive layouts across major device breakpoints.
-- Achieved a 95+ Lighthouse performance score.
-- Reduced page load time from 4.2 seconds to 1.1 seconds.
-- Applied lazy-loading techniques.
-- Reduced JavaScript overhead through optimization.
+| **Scale** | Mobile, tablet, and desktop |
+| **Performance** | 95+ Lighthouse score |
+| **Security** | Not specified |
+| **Impact** | Load time reduced from 4.2s to 1.1s |
+| **Repository** | [GitHub](https://github.com/PriyanshuTarsauliya) |
 
 </details>
 
@@ -246,19 +236,18 @@ A responsive personal portfolio engineered around performance, responsive design
 
 **Jun 2024 – Sep 2024 · Remote, India**
 
-Engineered and shipped a full-stack Doctor Appointment Booking System serving **150+ real users**, with a focus on backend architecture, API development, authentication, payments, frontend delivery, and deployment automation.
+Engineered and shipped a full-stack Doctor Appointment Booking System serving **150+ real users**.
 
-**Scope of Work**
+### Scope of Work
 
 - Architected a full-stack appointment booking platform.
 - Built 12+ RESTful APIs using Spring Boot.
-- Developed React.js interfaces supporting desktop and mobile bookings.
-- Reduced manual appointment scheduling time by 40%.
-- Integrated secure payment gateways.
-- Implemented JWT-based role authentication.
-- Automated deployments using GitHub Actions.
+- Developed React.js interfaces.
+- Reduced manual scheduling time by 40%.
+- Integrated payment gateways.
+- Implemented JWT authentication.
+- Automated deployment with GitHub Actions.
 - Reduced deployment time by 50%.
-- Applied Agile iteration to reduce sprint delivery cycles from two weeks to one week.
 
 **Skills**
 
@@ -272,12 +261,12 @@ Engineered and shipped a full-stack Doctor Appointment Booking System serving **
 
 | Recognition | Details |
 |---|---|
-| **500+ Coding Problems** | Solved 500+ problems across LeetCode, HackerEarth, and CodeChef |
+| **500+ Coding Problems** | LeetCode, HackerEarth & CodeChef |
 | **HackerEarth** | 5-Star Coder |
-| **AI Research** | Published research: **“AI in Software Code Review”**, March 2026 |
+| **AI Research** | “AI in Software Code Review” — March 2026 |
 | **Hackathons** | Smart India Hackathon • EY Hackathon |
-| **Industry Credentials** | 15+ industry badges on Credly |
-| **Production Engineering** | Shipped production platforms serving 150+ real users |
+| **Industry Credentials** | 15+ badges on Credly |
+| **Production Engineering** | Platforms serving 150+ real users |
 
 </div>
 
@@ -287,15 +276,11 @@ Engineered and shipped a full-stack Doctor Appointment Booking System serving **
 
 ### AWS
 
-<a href="https://aws.amazon.com/">
 <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-</a>
 
 ### Microsoft Azure
 
-<a href="https://azure.microsoft.com/">
 <img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20%7C%20828%2F1000-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</a>
 
 ### NPTEL
 
@@ -311,21 +296,13 @@ Engineered and shipped a full-stack Doctor Appointment Booking System serving **
 
 <div align="center">
 
-<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-500%2B%20Problems-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-</a>
 
-<a href="https://www.geeksforgeeks.org/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Profile-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
 
-<a href="https://www.hackerrank.com/">
 <img src="https://img.shields.io/badge/HackerRank-5%20Star%20Coder-0E141E?style=for-the-badge&logo=hackerrank&logoColor=00EA64"/>
-</a>
 
-<a href="https://www.codechef.com/">
 <img src="https://img.shields.io/badge/CodeChef-Competitive%20Programming-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
 
 </div>
 
@@ -335,13 +312,9 @@ Engineered and shipped a full-stack Doctor Appointment Booking System serving **
 
 <div align="center">
 
-<a href="https://github.com/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PriyanshuTarsauliya&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C4B5FD"/>
-</a>
 
-<a href="https://github.com/">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriyanshuTarsauliya&layout=compact&hide_border=true&langs_count=8&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD"/>
-</a>
 
 <br/>
 
@@ -375,16 +348,11 @@ Engineered and shipped a full-stack Doctor Appointment Booking System serving **
 
 <div align="center">
 
-<p align="center">
 <picture>
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
-<img alt="GitHub Contribution Snake"
-src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PriyanshuTarsauliya/PriyanshuTarsauliya/output/github-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PriyanshuTarsauliya/PriyanshuTarsauliya/output/github-snake.svg">
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/PriyanshuTarsauliya/PriyanshuTarsauliya/output/github-snake.svg">
 </picture>
-</p>
 
 </div>
 
