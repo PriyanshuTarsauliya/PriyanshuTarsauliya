@@ -4,17 +4,17 @@
 
 ### Full-Stack Software Engineer • AI & ML
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4c1d95,50:6d28d9,100:312e81&text=PRIYANSHU%20TARSAULIYA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%7C%20AI%20%26%20ML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4c1d95,50:6d28d9,100:312e81&text=PRIYANSHU%20TARSAULIYA&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20SOFTWARE%20ENGINEER%20%7C%20AI%20and%20ML&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+%26+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software">
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+%26+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software" alt="Typing SVG"/>
+<a href="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+and+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software">
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Full-Stack+Software+Engineer;AI+and+ML+Engineer;Java+%7C+Spring+Boot+%7C+React.js;Building+Scalable+Production+Systems;Turning+Complex+Problems+Into+Reliable+Software" alt="Typing SVG"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%20%26%20ML-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20AI%20and%20ML-6D28D9?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
 <img src="https://img.shields.io/badge/CGPA-8.0%2F10-4C1D95?style=for-the-badge&logo=academia&logoColor=white"/>
 <img src="https://img.shields.io/badge/Azure-Certified-A78BFA?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 <img src="https://img.shields.io/badge/Location-Bhopal%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
