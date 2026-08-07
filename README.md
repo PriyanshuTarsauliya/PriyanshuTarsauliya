@@ -21,7 +21,7 @@
 
 <br/><br/>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="#">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20Profile-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
@@ -348,7 +348,7 @@ Engineered and shipped a full-stack Doctor Appointment Booking System serving **
 
 <div align="center">
 
-![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/PriyanshuTarsauliya/PriyanshuTarsauliya/blob/output/github-snake-dark.svg)
 
 </div>
 
@@ -385,3 +385,4 @@ Open To:
   - Cloud Engineering
   - Product Engineering
   - Open Source Collaboration
+```
